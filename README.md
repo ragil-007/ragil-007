@@ -119,13 +119,13 @@ A real-time traffic data platform bridging Android clients with a scalable Djang
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ragil-007&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-phi-lyart-29.vercel.app/api?username=ragil-007&show_icons=true&theme=github_dark&hide_border=true" />
   
   <img height="170" src="https://streak-stats.demolab.com?user=ragil-007&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ragil-007&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-phi-lyart-29.vercel.app/api/top-langs/?username=ragil-007&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
