@@ -1,4 +1,4 @@
-<!-- ===================== HEADER / TYPING ANIMATION ===================== -->
+# <!-- ===================== HEADER / TYPING ANIMATION ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ragil+KP;Full-Stack+Developer;Spring+Boot+%7C+Next.js+%7C+AI+Integration;Building+Scalable+Production+Systems" />
 </p>
@@ -119,13 +119,13 @@ A real-time traffic data platform bridging Android clients with a scalable Djang
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ragil-007&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ragil-007&show_icons=true&theme=github_dark&hide_border=true" />
   
   <img height="170" src="https://streak-stats.demolab.com?user=ragil-007&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragil-007&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ragil-007&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -133,7 +133,7 @@ A real-time traffic data platform bridging Android clients with a scalable Djang
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ragil-007/ragil-007/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ragil-007/ragil-007/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
