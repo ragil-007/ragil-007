@@ -11,11 +11,11 @@
 
 ## 💡 About Me
 
-Full-Stack Developer with hands-on experience building scalable, production-ready applications — from **Spring Boot microservices and REST APIs** on the backend to **React, Next.js, and Vue.js** interfaces on the frontend.
+Full-Stack Developer with hands-on experience building scalable, production-ready applications — from Spring Boot microservices and REST APIs on the backend to React, Next.js, and Vue.js interfaces on the frontend.
 
 Shipped real-time AI-powered applications, RESTful services with JWT authentication, and database-optimized systems with measurable performance improvements.
 
-Strong foundation in **Object-Oriented Programming, Data Structures, multithreading, and relational database design**, with recent experience integrating **LLM APIs (Groq / Whisper)** into production web apps.
+Strong foundation in Object-Oriented Programming, Data Structures, multithreading, and relational database design, with recent experience integrating LLM APIs (Groq / Whisper) into production web apps.
 
 ---
 
@@ -25,6 +25,7 @@ Strong foundation in **Object-Oriented Programming, Data Structures, multithread
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
 </p>
+
 <p align="center">
 Java • Python • C++ • C • JavaScript • TypeScript • SQL
 </p>
@@ -35,8 +36,9 @@ Java • Python • C++ • C • JavaScript • TypeScript • SQL
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,django,nextjs,react,vue" />
 </p>
+
 <p align="center">
-Spring Boot • Spring MVC • Spring Security • Hibernate • JPA • Servlets • JSP • Thymeleaf • Next.js • React.js • Vue.js
+Spring Boot • Spring MVC • Spring Security • Hibernate • JPA • REST APIs • JWT Authentication • Servlets • JSP • Thymeleaf • Next.js • React.js • Vue.js
 </p>
 
 ---
@@ -45,6 +47,7 @@ Spring Boot • Spring MVC • Spring Security • Hibernate • JPA • Servlet
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
+
 <p align="center">
 MySQL • PostgreSQL • MongoDB • PL/SQL
 </p>
@@ -56,9 +59,16 @@ MySQL • PostgreSQL • MongoDB • PL/SQL
 JUnit • Mockito
 </p>
 
-### ☁️ DevOps & Tools
+---
+
+## ☁️ DevOps, Cloud & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,aws,maven,gradle,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,aws,maven,gradle,postman,vercel" />
+</p>
+
+<p align="center">
+Docker • Git • Linux • Maven • Gradle • AWS • Render • Vercel • Postman
 </p>
 
 ---
@@ -72,23 +82,27 @@ JUnit • Mockito
 
 A real-time AI meeting copilot that transcribes live audio and continuously surfaces contextual suggestions — answers, insights, fact-checks, and actions — while you're in the meeting.
 
-- Built a full-stack Next.js application with live mic transcription via **Whisper Large V3 (Groq)**, auto-generating 3 context-aware suggestions every ~30 seconds grounded in what was actually said
-- Engineered a **signal-detection system** that identifies what's happening in the last 60 seconds (question asked, claim made, decision committed) and selects the right suggestion type — answer, fact-check, insight, question, or action — rather than applying a fixed template
-- Implemented **token-by-token streaming chat** with exponential backoff rate limiting, in-flight concurrency guards, and a live countdown UI — handling Groq's 429 responses gracefully without freezing the interface
-- Deployed on **Vercel** with a settings panel for live prompt editing, session export (JSON + TXT), and zero-persistence architecture
+- Built a full-stack Next.js application with live mic transcription via Whisper Large V3 (Groq), auto-generating 3 context-aware suggestions every ~30 seconds grounded in what was actually said
+- Engineered a signal-detection system that identifies what's happening in the last 60 seconds (question asked, claim made, decision committed) and selects the right suggestion type — answer, fact-check, insight, question, or action — rather than applying a fixed template
+- Implemented token-by-token streaming chat with exponential backoff rate limiting, in-flight concurrency guards, and a live countdown UI — handling Groq's 429 responses gracefully without freezing the interface
+- Deployed on Vercel with a settings panel for live prompt editing, session export (JSON + TXT), and zero-persistence architecture
 
 🔗 [Live Demo](https://meeting-assistant-realtime.vercel.app) · [GitHub](https://github.com/ragil-007/meeting-assistant-realtime)
 
 ---
 
 ### 💉 Immuna – Digital Immunization Management System
-> **Spring Boot · Spring Security · REST APIs · MySQL · Vue.js**
+> **Spring Boot · Spring Security · JWT · Vue.js · MySQL · Docker · Render · Vercel**
 
-A full-stack immunization management platform for tracking vaccination records and automating alerts for upcoming or overdue doses.
+A production-deployed full-stack immunization management platform for tracking vaccination records, managing vaccine schedules, and automating upcoming or overdue dose alerts.
 
-- Architected a **Spring Boot + Vue.js** platform covering the full immunization lifecycle — from vaccine scheduling to automated overdue alerts — serving 5+ core entities including vaccines, diseases, users, and immunization records
-- Designed and secured **12+ RESTful APIs** with Spring Security and **JWT-based authentication**, backed by a normalized MySQL schema with relational integrity across all core entities
-- Built a responsive **Vue.js frontend** using Vue Router and Axios, featuring an interactive immunization dashboard that improved vaccination data accessibility and reduced manual record-keeping overhead
+- Architected and deployed a complete Spring Boot + Vue.js healthcare platform covering the full immunization lifecycle — from vaccine scheduling to overdue tracking — supporting core entities including vaccines, diseases, users, schedules, and immunization records
+- Designed and secured 12+ RESTful APIs using Spring Security and JWT-based authentication, backed by a normalized MySQL schema with strong relational integrity across all business entities
+- Built a responsive Vue.js frontend using Vue Router and Axios with role-based dashboards, interactive vaccine management workflows, and real-time immunization tracking
+- Containerized backend services using Docker and deployed the production stack using Render (backend), Vercel (frontend), and Aiven Cloud MySQL
+- Configured production-grade CORS handling, cloud database integration, CI/CD auto deployments via GitHub, and secure environment-variable-based configuration management
+
+🔗 [Live Demo](https://immuna-vaccine-management.vercel.app) · [GitHub](https://github.com/ragil-007/immuna-vaccine-management)
 
 ---
 
@@ -107,9 +121,11 @@ A real-time traffic data platform bridging Android clients with a scalable Djang
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ragil-007&theme=github-dark-blue&hide_border=true" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ragil-007&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragil-007&layout=compact&theme=github_dark&hide_border=true" />
 </p>
@@ -126,7 +142,7 @@ A real-time traffic data platform bridging Android clients with a scalable Djang
 
 ## 🏆 Certifications
 
-☁️ **AWS Elastic Load Balancing with Auto Scaling Groups**
+☁️ AWS Elastic Load Balancing with Auto Scaling Groups
 
 ---
 
@@ -136,12 +152,15 @@ A real-time traffic data platform bridging Android clients with a scalable Djang
   <a href="mailto:ragilraghunath114@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/ragil-raghunath">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/ragil-007">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://hackerrank.com/ragilraghunath11">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
